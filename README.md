@@ -1,5 +1,7 @@
 # OpenFace for ROS
 
+Branched version of OpenFace for ROS from @interaction-lab on 12/17/16. Use this for projected face build.
+
 This is a small ROS node that exposes OpenFace over ROS. In particular, given a image of a face, it will output:
   * Eye Gaze Vectors
   * Head Pose
